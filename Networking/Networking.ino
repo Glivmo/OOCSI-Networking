@@ -5,9 +5,9 @@
  TU/e course of faculty of Industrial Design by Mathias Funk
  DBSU10 (2018-3) - Tyria Team 05
  
- Author: Danny Yang
- Author: Glenn Mossel
  Author: Sylvan Brons
+ Author: Glenn Mossel
+ Author: Danny Yang
  Author: Kirsten Tensen
  
  For more information on OOCSI refer to: https://iddi.github.io/oocsi/
